@@ -1,8 +1,8 @@
 # 2-StaticSiteGenerator
 
-Use build.sh or build.py to generate the html files
+This is the ssg-bash branch. Use build.sh to generate the html files
 
-Both the Bash script build.sh AND the Python script build.py should do the same thing
+build.sh script should do the same thing
 • Input files are in templates/ and content/ directory
 • Output files are in docs/ directory
 • Templates and content directory are the “input” and not the final pages. The final pages
